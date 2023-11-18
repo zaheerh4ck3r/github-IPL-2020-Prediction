@@ -60,8 +60,3 @@ $ git pull
 - Release 0.1
   - Idea generation
   - Data collection
-
-## Importent Link
-
-- To know about it https://ptprashanttripathi.github.io/IPL-2020-Prediction/
-- To view this project source code https://github.com/PtPrashantTripathi/IPL-2020-Prediction/
